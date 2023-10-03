@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TvShows</string>
+    <string name="language">Language</string>
+    <string name="rating">Rating</string>
+    <string name="searching">Searching</string>
+    <string name="fetching">Fetching Data</string>
+    <string name="back">Back</string>
+    <string name="loading_tv_show">Loading Tv Show</string>
+</resources>
